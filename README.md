@@ -11,3 +11,7 @@ https://www.chiefdelphi.com/t/ntcore-not-found-in-java-library-path-grip-generat
 https://www.chiefdelphi.com/t/how-to-run-networktables-java/343072
 https://www.chiefdelphi.com/t/how-to-run-networktables-java/343072
 https://docs.wpilib.org/en/latest/docs/software/networktables/client-side-program.html
+
+## Updating java version on the pi
+sudo update-alternatives --config java
+sudo update-alternatives --config javac
